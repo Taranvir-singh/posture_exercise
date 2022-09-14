@@ -1,0 +1,6 @@
+mediapipe-rpi4==0.8.8
+numpy==1.21.6
+opencv-contrib-python==3.4.4.19
+opencv-python==3.4.2.17
+pandas
+
